@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:52:38.395025
+#+DATE: 2015-08-30 20:52:43.034652
 #+TITLE: 俱舍論頌疏論本
 #+PROPERTY: CBETA_ID T41n1823
 #+PROPERTY: ID KR6l0036
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 41, No. 1823
 #+PROPERTY: VOL 41
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@JIA
 #+PROPERTY: LASTPB <pb:KR6l0036_T_024-0948c> ¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 24
 ¶
 ¶
-
- 俱舍論頌疏論本第二十四¶
+俱舍論頌疏論本第二十四¶
 ¶
 
 從此第二。明一來向果。論云。已辨住果未¶

@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:52:38.494889
+#+DATE: 2015-08-30 20:52:43.137827
 #+TITLE: 俱舍論頌疏論本
 #+PROPERTY: CBETA_ID T41n1823
 #+PROPERTY: ID KR6l0036
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 41, No. 1823
 #+PROPERTY: VOL 41
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@JIA
 #+PROPERTY: LASTPB <pb:KR6l0036_T_027-0964c> 
 #+PROPERTY: JUAN 27
 ¶
-
- 俱舍論頌疏論本第二十七¶
+俱舍論頌疏論本第二十七¶
 ¶
 
 從此大文第二。明智所成功德。就中二。一¶
@@ -47,7 +46,7 @@
 　盡六或十智¶
 　宿住死生智
 　依靜慮餘通¶
-　贍部男佛身
+　瞻部男佛身
 　於境無礙故
 #+END_VERSE
 」¶
@@ -238,7 +237,7 @@
 三惡趣為三也。二令出善趣生死復為一¶
 也。故名為四。又解安置善趣為一。安置三¶
 乘為三故。名為四。總說如來圓德如是¶
-　若別分析。則有無邊。唯佛世尊。能知能說。¶
+　若別分折。則有無邊。唯佛世尊。能知能說。¶
 諸有智者。聞說如斯。生信重心。徹於骨髓。¶
 彼由一念極重信心。轉滅無邊。不定惡業。¶
 攝受人天。殊勝涅槃。故說如來出興於世。¶
