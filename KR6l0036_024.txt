@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:52:38.395025
+#+DATE: 2015-08-30 20:52:44.419818
 #+TITLE: 俱舍論頌疏論本
 #+PROPERTY: CBETA_ID T41n1823
 #+PROPERTY: ID KR6l0036
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 41, No. 1823
 #+PROPERTY: VOL 41
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6l0036_T_024-0948c> ¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 24
 ¶
 ¶
-
- 俱舍論頌疏論本第二十四¶
+俱舍論頌疏論本第二十四¶
 ¶
 
 從此第二。明一來向果。論云。已辨住果未¶
@@ -508,7 +507,7 @@
 九品。所證擇滅。為無為果。謂斷見惑。有八¶
 無間八解脫道(八忍八智是也)。斷九地修惑。有八¶
 十一無間道。八十一解脫道。見修合論。有八¶
-十九無間道。唯沙門性八十九解脫道。亦名¶
+十九無間道。唯沙門性十八九解脫道。亦名¶
 沙門果。亦名沙門性。息惡義邊。名沙門性。¶
 與無間道。為等流果。邊名沙門果。一一擇¶
 滅。唯是無為。沙門果體。謂無間解脫道。是沙¶

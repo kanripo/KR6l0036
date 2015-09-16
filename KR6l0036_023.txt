@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:52:38.363689
+#+DATE: 2015-08-30 20:52:44.391339
 #+TITLE: 俱舍論頌疏論本
 #+PROPERTY: CBETA_ID T41n1823
 #+PROPERTY: ID KR6l0036
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 41, No. 1823
 #+PROPERTY: VOL 41
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6l0036_T_023-0942c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 23
 ¶
 ¶
-
- 俱舍論頌疏論本第二十三¶
+俱舍論頌疏論本第二十三¶
 ¶
 
 從此第三。明四念住。就中分二。一明別相¶
@@ -22,7 +21,7 @@
 心得定已。復何有所修。頌曰。¶
 
 #+BEGIN_VERSE
-「　依已修成止
+「　依巳修成止
 　為觀修念住¶
 　以自相共相
 　觀身受心法¶
@@ -485,7 +484,7 @@
 #+END_VERSE
 」¶
 
-釋曰。忍是無間道。約斷惑得。不被惑得之¶
+釋曰。忍是無間道。約斷惑得。不破惑得之¶
 所隔礙。故名無間　智是解脫道。已解脫¶
 惑得。又與離繫得。俱時起故。名解脫也。忍¶
 智次第。理必應然。猶如世間驅賊閉戶。忍¶

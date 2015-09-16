@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:52:38.430589
+#+DATE: 2015-08-30 20:52:44.455322
 #+TITLE: 俱舍論頌疏論本
 #+PROPERTY: CBETA_ID T41n1823
 #+PROPERTY: ID KR6l0036
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 41, No. 1823
 #+PROPERTY: VOL 41
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6l0036_T_025-0954a> 
 #+PROPERTY: JUAN 25
 ¶
 ¶
-
- 俱舍論頌疏論本第二十五¶
+俱舍論頌疏論本第二十五¶
 ¶
 
 從此第五。明六種性。就中八。一明六阿羅¶
@@ -78,7 +77,7 @@
 
 釋曰。不動種姓。必無退理。就前五種。唯退¶
 法一。姓必不退。謂居下故。唯思法等四。有¶
-種姓退。謂從思法。退入退法。或從護法。¶
+種姓退。謂從思法。退入退位。或從護法。¶
 退入思法。或從安住。退入護法。或從堪達。¶
 退入安住。是名姓退。五從果非先者。退法¶
 等五。皆有退果。謂退無學也。思法等四。或¶
