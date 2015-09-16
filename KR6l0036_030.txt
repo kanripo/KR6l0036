@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:52:38.593077
+#+DATE: 2015-08-30 20:52:41.739338
 #+TITLE: 俱舍論頌疏論本
 #+PROPERTY: CBETA_ID T41n1823
 #+PROPERTY: ID KR6l0036
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 41, No. 1823
 #+PROPERTY: VOL 41
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@YI
 #+PROPERTY: LASTPB <pb:KR6l0036_T_030-0979b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 30
 ¶
 ¶
-
- 俱舍論頌疏論本卷第三十¶
+俱舍論頌疏論本卷第三十¶
 ¶
 
 從此第三置答益物分。先難後答。犢子部難。¶
@@ -118,7 +117,7 @@
 不為答。說有違理。說無斷善。置記之答¶
 於斯盡焉。¶
 
-次破數論難言決定有我。事用必待事用¶
+次破數論雖言決定有我。事用必待事用¶
 者故。謂如識等能了等用。必待有我以¶
 為所依。識等方能有了等用。能了之者¶
 即是我也。如天授行必待天授。天授是我。¶

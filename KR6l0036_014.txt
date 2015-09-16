@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:52:38.055148
+#+DATE: 2015-08-30 20:52:41.040286
 #+TITLE: 俱舍論頌疏論本
 #+PROPERTY: CBETA_ID T41n1823
 #+PROPERTY: ID KR6l0036
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 41, No. 1823
 #+PROPERTY: VOL 41
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@YI
 #+PROPERTY: LASTPB <pb:KR6l0036_T_014-0894b> ¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 14
 ¶
 ¶
-
- 俱舍論頌疏論本第十四¶
+俱舍論頌疏論本第十四¶
 ¶
 
 從此第三。廣明表無表。一明三無表。二依¶
@@ -237,8 +236,7 @@
 」¶
 
 釋曰。正知正念合名意根律儀者。合前二種¶
-正知正念。名意根律儀。正知是慧。正念是¶
-念。以此念慧。能防過非。故二律儀。慧念為¶
+正知正念。名意根律儀。正知是慧。正念是念。以此念慧。能防過非。故二律儀。慧念為¶
 體。¶
 
 從此第二。約世明成就。一成就無表。二成
