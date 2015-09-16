@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:52:38.121764
+#+DATE: 2015-08-30 20:52:39.569127
 #+TITLE: 俱舍論頌疏論本
 #+PROPERTY: CBETA_ID T41n1823
 #+PROPERTY: ID KR6l0036
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 41, No. 1823
 #+PROPERTY: VOL 41
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@BING
 #+PROPERTY: LASTPB <pb:KR6l0036_T_016-0906a> ¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 16
 ¶
 ¶
-
- 俱舍論頌疏論本第十六¶
+俱舍論頌疏論本第十六¶
 ¶
 
 從此第七明黑黑等。就中一明四業。二明¶
@@ -97,7 +96,7 @@
 斷。斷已不行。名自性斷。善法斷已。容現行¶
 故。非自性斷。斷善法者。不斷善體。但斷¶
 善上能緣煩惱。成就善故。故得現行。言容¶
-行者。謂善憂根。斷已不行。所餘善法斷已¶
+行者。謂善憂根。斷已不行。所緣善法斷已¶
 皆行故。致容言也。¶
 
 從此第三。敘異說。頌曰。¶

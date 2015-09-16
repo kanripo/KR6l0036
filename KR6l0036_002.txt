@@ -1,19 +1,18 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:52:37.645797
+#+DATE: 2015-08-30 20:52:39.179535
 #+TITLE: 俱舍論頌疏論本
 #+PROPERTY: CBETA_ID T41n1823
 #+PROPERTY: ID KR6l0036
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 41, No. 1823
 #+PROPERTY: VOL 41
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@BING
 #+PROPERTY: LASTPB <pb:KR6l0036_T_002-0826b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 2
 ¶
 ¶
 ¶
-
- 俱舍論頌疏論本第二¶
+俱舍論頌疏論本第二¶
 ¶
 
 從此第三。諸門分別。總有二十二門。分別¶
@@ -155,7 +154,7 @@
 
 釋曰。意法意識通者。通有漏無漏二也。謂¶
 意及意識。道諦攝者。名為無漏。餘名有漏。¶
-法界若是道諦。無為名為無漏餘名有漏¶
+法界若是道諦。無為名為無漏餘名無漏¶
 (法界有無漏心所法名道諦也)。餘十五界。唯是有漏。道諦無¶
 為。所不攝故。¶
 

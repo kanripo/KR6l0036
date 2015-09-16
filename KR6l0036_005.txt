@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:52:37.765882
+#+DATE: 2015-08-30 20:52:39.272923
 #+TITLE: 俱舍論頌疏論本
 #+PROPERTY: CBETA_ID T41n1823
 #+PROPERTY: ID KR6l0036
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 41, No. 1823
 #+PROPERTY: VOL 41
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@BING
 #+PROPERTY: LASTPB <pb:KR6l0036_T_005-0847c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 5
 ¶
 ¶
-
- 俱舍論頌疏論本第五¶
+俱舍論頌疏論本第五¶
 ¶
 
 從此大文第二。明眾同分者。論云。如是已¶
@@ -557,8 +556,7 @@
 非得也。定謂二定。無想滅盡也。非得及定。¶
 於五類門。同類因生。唯等流性。非業所感¶
 故。不通異熟。非色法故。不通長養。等流¶
-性故。非有剎那。是有為故。故不通有實¶
-也。¶
+性故。非有剎那。是有為故。故不通有實也。¶
 俱舍論頌疏論本第五
 <pb:KR6l0036_T_005-0853a>¶
 
